@@ -1,13 +1,6 @@
-
-<!DOCTYPE html>
-<html>
+ ![logo](https://github.com/webchaitanyadc/webchaitanyadc/blob/main/banner.png)
 
  
-  </head>
-  <body style="margin:0;">
-  
-
-<img style="margin:0;" src="https://github.com/webchaitanyadc/webchaitanyadc/blob/main/banner.png">
 
 <h1 align="center">Hi 👋, I'm chaitanya</h1>
 <h3 align="center">A passionate web web developer</h3>
@@ -22,9 +15,7 @@
 - 💬 Ask me about **html css javascript**
 
 - 📫 How to reach me **chaitanyashankarpelli@gmail.com**
-
-- ⚡ Fun fact **anime fan**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/web-devloper-freelancer-chaitanya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/web-devloper-freelancer-chaitanya/" height="30" width="40" /></a>
